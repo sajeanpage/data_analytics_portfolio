@@ -1,6 +1,6 @@
 # Data Analytics
 ## Excel Sample
-#### I used mock data in Excel about crowd funding, and I was able to work to some conclusions about crowd funding campaigns. I leveraged conditional formatting, formula calculations, pivot charts, and pivot tables. I calculated means, variances, and standard deviations, in the data analysis and was able to come to some conclusions.
+### I used mock data in Excel about crowd funding, and I was able to work to some conclusions about crowd funding campaigns. I leveraged conditional formatting, formula calculations, pivot charts, and pivot tables. I calculated means, variances, and standard deviations, in the data analysis and was able to come to some conclusions.
 ![crowd.gif](Excel/crowd.gif)
 #### Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
  - Most crowdfunding campaigns are successful.
