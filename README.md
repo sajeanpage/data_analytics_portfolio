@@ -13,5 +13,5 @@
  - Graphing country vs. outcome could provide valuable insight into the viability of crowdfunding campaigns originating in different countries.
  - Graphing currency vs. outcome could provide valuable insight into the viability of crowdfunding campaigns based on the chosen base currency solicited.
 #### Work Files
-- [CrowdfundingBook.xlsx](work_files\CrowdfundingBook.xlsx)
-- [Excel_Challenge.docx](work_files\Excel_Challenge.docx)
+- [CrowdfundingBook.xlsx](work_files/CrowdfundingBook.xlsx)
+- [Excel_Challenge.docx](work_files/Excel_Challenge.docx)
