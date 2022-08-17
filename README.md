@@ -1,6 +1,6 @@
 # Data Analytics
 ## SQL Sample
-### I used mock table data from an old employee database, and I was able to work to some conclusions about the fidelity of the data. I imported the data into a PostgrSQL database schema and was able to enforce normalization through table keys and relationships.  With the database intact, I performed needed queries of the data.  I used Jupyter Notebook with Pandas, SQLAlchemy, and Psycopg to furthur analize the data. 
+### I used mock table data from an old employee database, and I was able to work to some conclusions about the fidelity of the data. I imported the data into a PostgrSQL database schema and was able to enforce normalization through table keys and relationships.  With the database intact, I performed needed queries of the data.  I used Jupyter Notebook with Pandas, SQLAlchemy, and Psycopg to furthur analize the data. I was able to visually show anomalies with the salary data using histograms and bar graphs of the salaries and 
 ![erd.gif](SQL/erd.gif)
 ![query.gif](SQL/query.gif)
 ## Excel Sample
