@@ -6,7 +6,7 @@
 ![hist.gif](SQL/Bonus/b4_histogram_exclude_40000.png)
 #### Work Files
 - Notebook
-  - [Jupyter Notebook](/EmployeeSQL/queries/DA1_Employee_Info.sql)
+  - [StaffDB Jupyter Notebook](/SQL/Bonus/StaffDB.ipynb)
 - Queries
   - [DA1_Employee_Info](/SQL/EmployeeSQL/queries/DA1_Employee_Info.sql)
   - [DA2_Employee_Hire_Date](/SQL/EmployeeSQL/queries/DA2_Employee_Hire_Date.sql)
