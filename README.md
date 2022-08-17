@@ -4,6 +4,9 @@
 ![erd.gif](SQL/erd.gif)
 ![fullhist.gif](SQL/Bonus/b1_full_histogram.png)
 ![hist.gif](SQL/Bonus/b4_histogram_exclude_40000.png)
+#### Work Files
+- [CrowdfundingBook.xlsx](Excel/work_files/CrowdfundingBook.xlsx)
+- [Excel_Challenge.docx](Excel/work_files/Excel_Challenge.docx)
 ## Excel Sample
 ### I used mock data in Excel about crowd funding, and I was able to work to some conclusions about crowd funding campaigns. I leveraged conditional formatting, formula calculations, pivot charts, and pivot tables. I calculated means, variances, and standard deviations, in the data analysis and was able to come to some conclusions.
 ![crowd.gif](Excel/crowd.gif)
