@@ -3,7 +3,7 @@
 ### Using data from NC State, The Public Science Lab. (2017). Belly Button Data Sets I built an interactive web page that allows viewers to easily visualizing belly button bacteria data.  I utilized BootStrap, D3, and Plotly javascript libraries as well as Github Pages for content delivery.
 - Visit the final form here:  https://sajeanpage.github.io/module_14_belly_button_challenge/
 
-# ![banner](images/belly.PNG)
+# ![banner](Visualizations/images/belly.PNG)
 - References
   - NC State, The Public Science Lab. (2017). Belly Button Data Sets. Retrieved from http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 ## SQL Sample
