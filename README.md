@@ -1,4 +1,11 @@
 # Data Analytics
+## Interactive Web Visualizations Sample
+### Using data from NC State, The Public Science Lab. (2017). Belly Button Data Sets I built an interactive web page that allows viewers to easily visualizing belly button bacteria data.  I utilized BootStrap, D3, and Plotly javascript libraries as well as Github Pages for content delivery.
+- Visit the final form here:  https://sajeanpage.github.io/module_14_belly_button_challenge/
+
+# ![banner](images/belly.PNG)
+- References
+  - NC State, The Public Science Lab. (2017). Belly Button Data Sets. Retrieved from http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
 ## SQL Sample
 ### I used mock table data from an old employee database, and I was able to work to some conclusions about the fidelity of the data.  I formed a data model using an ERD tool and used that model to build and import the data into a PostgreSQL database schema, enforcing normalization through keys and relationships.  With the database intact, I performed needed queries of the data.  I then used Jupyter Notebook with Pandas, SQLAlchemy, and Psycopg to further analyze the data. I was able to visually show anomalies with the salary data using histograms and bar graphs of the salary data. 
 ![erd.gif](SQL/erd.gif)
